@@ -1,0 +1,9 @@
+tensorflow
+sklearn
+bs4
+pickle
+numpy
+pandas
+nltk
+lxml
+pydot
