@@ -1,7 +1,7 @@
-<font size="+5" color=Green > <b> <center><u>
-    <br>Text Summarization </u>
-<font size="+2" color=blue > <br>Sequenece to Sequence Modelling
- <font size="+2" color=#AEB050 >   <br>Attention Mechanism</font>
+# Text Summarization
+_Sequenece to Sequence Modelling_
+
+**Attention Mechanism**
 
 ![](images/banner.jpeg)
 
