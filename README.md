@@ -14,5 +14,6 @@ Make sure you have [Python](http://www.python.org/) 3.6+ and
 [Linux](http://docs.python-guide.org/en/latest/starting/install/linux/))
 installed.
 
+![](images/summarization.JPG)
 
-
+![](images/module.JPG)
