@@ -31,13 +31,13 @@ This is a NLP project for Text Summarization which is built with Flask(RESTapi) 
 
 ## Code Demo
 ### Model Training 
-![](images/train.jpg)
+![](/images/train.jpg)
 
 ### Layer Architecture 
-![](images/layers.jpg)
+![](/images/layers.jpg)
 
 ### Train & Test
-![](images/validation_loss.jpg)
+![](/images/validation_loss.jpg)
 
 
 
