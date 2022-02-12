@@ -1,9 +1,8 @@
 # Text Summarization
-_Sequenece to Sequence Modelling_
+*Implementing Sequence-to-Sequence model with LSTM and Attention Mechanism in Python for Text Summarization Problem.*
+_______________________________
 
-**Attention Mechanism**
-
-![](images/banner.jpeg)
+![](images/banner_2.png)
 
 
 This is a NLP project for Text Summarization which is built with Flask(RESTapi) and deployed on Heroku(PaaS) using NLTK for summarizing text applied attention mechanism.
@@ -54,6 +53,8 @@ __________________________________
 
 <a href="url"><img src="images/module.JPG"  height="180" width="350" ></a>
 
+### Attention Catagories :
+<a href="url"><img src="images/attention_categories.png"  height="180" width="350" ></a>
 ________________________________________________
 
 ## References :
@@ -63,6 +64,8 @@ ________________________________________________
 - https://iopscience.iop.org/article/10.1088/1742-6596/1848/1/012057/pdf
 - https://medium.com/analytics-vidhya/seq2seq-abstractive-summarization-using-lstm-and-attention-mechanism-code-da2e9c439711
 - https://www.hindawi.com/journals/mpe/2020/9365340/
+- https://github.com/uzaymacar/attention-mechanisms
+
 
 _________________________________
 ## Final Note :
